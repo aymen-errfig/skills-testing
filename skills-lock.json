@@ -1,6 +1,16 @@
 {
   "version": 1,
   "skills": {
+    "git-commit": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "2607fc60629b82b257136dd2a7a373f0a4466c0b49df7746d845d59313c99b21"
+    },
+    "react-hook-form-zod-shadcn": {
+      "source": "sortweste/frontend-skills",
+      "sourceType": "github",
+      "computedHash": "fdbc306b5887d45b5fb984ee9875332d1a98fcc2aaf0d64a163cd75c981d57c3"
+    },
     "shadcn": {
       "source": "shadcn/ui",
       "sourceType": "github",
